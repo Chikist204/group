@@ -1,4 +1,3 @@
-# some shit
 def my_superfunction():
     print('What an awesome print!')
 
@@ -12,4 +11,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    print(1)
